@@ -22,23 +22,15 @@
       text-align: center;
       padding: 2rem;
     }
-    .profile-photo {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-bottom: 1rem;
-      border: 4px solid #4a90e2;
-    }
     h1 {
-      margin: 0;
+      margin: 0 0 1rem;
       font-size: 1.8rem;
       color: #333;
     }
     p.bio {
       font-size: 1rem;
       color: #555;
-      margin: 1rem 0 1.5rem;
+      margin: 0 0 1.5rem;
       line-height: 1.4;
     }
     .contact-links a {
@@ -56,7 +48,6 @@
 <body>
 
   <div class="profile-card">
-    <img src="https://via.placeholder.com/120" alt="Profile Photo" class="profile-photo" />
     <h1>Jane Doe</h1>
     <p class="bio">Web developer passionate about creating clean, user-friendly websites and applications. Lover of coffee and good books.</p>
     <div class="contact-links">
