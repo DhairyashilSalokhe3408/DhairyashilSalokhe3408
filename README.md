@@ -5,12 +5,12 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Dhairyashil Salokhe.</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Electronics and Telecommunication +Engineer;arduino automation+Developer;PLC+Programmer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  automation engineer | PLC Programmer | Embedded and real time operating system
 </p>
 
 <div align="center">
@@ -23,17 +23,17 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/dnsalokhe_310/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Dhairyashil Salokhe.">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fdnsalokhe_310%2F&subtitle=@dhairyashil&size=square" alt="Dhairyashil Salokhe.">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafk-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Dhairyashil Salokhe.">
+      <a href="https:www.linkedin.com/in/dhairyashil-salokhe-0b19aa389" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2dhairyashil-salokhe-0b19aa389%2F&subtitle=@Dhairyashil&size=square" alt="Dhairyashil Salokhe.">
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/DhairyashilSalokhe3408" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Dhairyashil&subtitle=DHAIRYASHIL_SALOKHE&size=square" alt="Dhairyashil">
   </a>
 </td>
 
@@ -45,18 +45,18 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=Dhairyashil&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a passionate Electronics and Telecommunication Engineer with a strong interest in Embedded Systems, Internet of Things (IoT), and emerging technologies, I specialize in microcontroller-based systems, industrial automation, and smart hardware solutions. With hands-on experience in Arduino, ESP32, sensors, and IoT-based projects, I am eager to apply my technical knowledge to develop innovative and efficient solutions. My interest in programming, Artificial Intelligence, and embedded technology drives me to continuously learn, solve real-world engineering challenges, and contribute to the development of modern technological solutions.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Dhairyashil&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
